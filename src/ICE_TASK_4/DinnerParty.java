@@ -3,8 +3,6 @@ package ICE_TASK_4;
 
 /*
  * Assignment Name: ICE TASK 4 - Demonstrating Inheritance
- * Author: Naoyuki Christopher Higaki
- * Student Number: ST10462415
  * 
  * The DinnerParty class is a subclass of the Party class.
  * It extends the functionality of the Party class by adding a dinner menu.
