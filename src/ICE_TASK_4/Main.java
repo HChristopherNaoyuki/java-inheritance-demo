@@ -3,8 +3,6 @@ package ICE_TASK_4;
 
 /*
  * Assignment Name: ICE TASK 4 - Demonstrating Inheritance
- * Author: Naoyuki Christopher Higaki
- * Student Number: ST10462415
  * 
  * The Main class is responsible for demonstrating the usage of the Party and
  * DinnerParty classes. It creates objects of both classes and showcases how
