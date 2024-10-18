@@ -3,8 +3,6 @@ package ICE_TASK_4;
 
 /*
  * Assignment Name: ICE TASK 4 - Demonstrating Inheritance
- * Author: Naoyuki Christopher Higaki
- * Student Number: ST10462415
  * 
  * This code demonstrates the concept of inheritance in Java.
  * The task is divided into four stages:
