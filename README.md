@@ -1,4 +1,4 @@
-# ICE TASK 4 - Demonstrating Inheritance
+# JAVA - Demonstrating Inheritance
 
 ## Description
 This project showcases the concept of inheritance in Java by creating a general `Party` class and a specialized `DinnerParty` subclass. The `DinnerParty` class extends the functionality of the `Party` class by adding a dinner menu feature. This example illustrates how subclassing allows for more specific versions of a general class while maintaining shared behaviors.
